@@ -103,9 +103,9 @@ public class ViewToy {
 
     private Toy inputToy() {
         String name = prompt("Name of the toy: ");
-        String count = prompt("Amount of toys: ");
+        String amount = prompt("Amount of toys: ");
         Integer dropRate = Integer.valueOf(prompt("Toy drop rate: "));
-        Toy toy = new Toy(name, Integer.valueOf(count));
+        Toy toy = new Toy(name, Integer.valueOf(amount));
         toy.setDropRate(dropRate);
         return toy;
     }

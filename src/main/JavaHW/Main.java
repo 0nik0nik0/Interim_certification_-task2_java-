@@ -15,7 +15,7 @@ public class Main {
         logger.info("Main run");
         FileOperationToy fileOperationToys = new FileOperationToy("src/main/JavaHW/data/Toys.txt", logger);
         FileOperationToy fileOperationPrizeToys = new FileOperationToy("src/main/JavaHW/data/PrizeToys.txt", logger);
-        FileOperationToy fileOperationGivenOutPrizeToys = new FileOperationToy("src/main/JavaHW/data/GivenOutPrizeToys.txt", logger);
+        FileOperationToy fileOperationGivenOutPrizeToys = new FileOperationToy("src/main/JavaHW/data/PresentedToys.txt", logger);
         RepositoryToy repositoryToys = new RepositoryToy(fileOperationToys, new MapperToy());
         RepositoryToy repositoryPrizeToys = new RepositoryToy(fileOperationPrizeToys, new MapperToy());
         RepositoryToy repositoryGivenOutPrizeToys = new RepositoryToy(fileOperationGivenOutPrizeToys, new MapperToy());
