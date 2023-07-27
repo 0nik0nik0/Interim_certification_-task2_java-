@@ -1,0 +1,782 @@
+июл. 27, 2023 10:34:00 PM Main main
+INFO: Main run
+июл. 27, 2023 10:34:00 PM model.FileOperationToy <init>
+INFO: Filewriter successful init
+июл. 27, 2023 10:34:00 PM model.FileOperationToy <init>
+INFO: Filewriter successful init
+июл. 27, 2023 10:34:00 PM model.FileOperationToy <init>
+INFO: Filewriter successful init
+июл. 27, 2023 10:34:00 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:00 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:00 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:04 PM view.ViewToy run
+INFO: Command entered: r
+июл. 27, 2023 10:34:04 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:04 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:04 PM controller.ControllerToy readToy
+INFO: Read toy (Ork)
+июл. 27, 2023 10:34:04 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:04 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:04 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Ork)
+июл. 27, 2023 10:34:04 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:04 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:04 PM controller.ControllerToy addToy
+INFO: Delete toy (Ork)
+июл. 27, 2023 10:34:04 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:04 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:04 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:05 PM view.ViewToy run
+INFO: Command entered: r
+июл. 27, 2023 10:34:05 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:05 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:05 PM controller.ControllerToy readToy
+INFO: Read toy (Goblin)
+июл. 27, 2023 10:34:05 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:05 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:05 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Goblin)
+июл. 27, 2023 10:34:05 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:05 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:05 PM controller.ControllerToy addToy
+INFO: Delete toy (Goblin)
+июл. 27, 2023 10:34:05 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:05 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:05 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:06 PM view.ViewToy run
+INFO: Command entered: r
+июл. 27, 2023 10:34:06 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:06 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:06 PM controller.ControllerToy readToy
+INFO: Read toy (Po)
+июл. 27, 2023 10:34:06 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:06 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:06 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Po)
+июл. 27, 2023 10:34:06 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:06 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:06 PM controller.ControllerToy addToy
+INFO: Delete toy (Po)
+июл. 27, 2023 10:34:06 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:06 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:06 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:07 PM view.ViewToy run
+INFO: Command entered: r
+июл. 27, 2023 10:34:07 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:07 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:07 PM controller.ControllerToy readToy
+INFO: Read toy (Ork)
+июл. 27, 2023 10:34:07 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:07 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:07 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Ork)
+июл. 27, 2023 10:34:07 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:07 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:07 PM controller.ControllerToy addToy
+INFO: Delete toy (Ork)
+июл. 27, 2023 10:34:07 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:07 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:07 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:08 PM view.ViewToy run
+INFO: Command entered: r
+июл. 27, 2023 10:34:08 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:08 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:08 PM controller.ControllerToy readToy
+INFO: Read toy (jo-jo)
+июл. 27, 2023 10:34:08 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:08 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:08 PM controller.ControllerToy deleteToy
+INFO: Delete toy (jo-jo)
+июл. 27, 2023 10:34:08 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:08 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:08 PM controller.ControllerToy addToy
+INFO: Delete toy (jo-jo)
+июл. 27, 2023 10:34:08 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:08 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:08 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:08 PM view.ViewToy run
+INFO: Command entered: r
+июл. 27, 2023 10:34:08 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:08 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:08 PM controller.ControllerToy readToy
+INFO: Read toy (Ork)
+июл. 27, 2023 10:34:08 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:08 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:08 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Ork)
+июл. 27, 2023 10:34:08 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:08 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:08 PM controller.ControllerToy addToy
+INFO: Delete toy (Ork)
+июл. 27, 2023 10:34:08 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:08 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:08 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:09 PM view.ViewToy run
+INFO: Command entered: r
+июл. 27, 2023 10:34:09 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:09 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:09 PM controller.ControllerToy readToy
+INFO: Read toy (Dipsy)
+июл. 27, 2023 10:34:09 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:09 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:09 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Dipsy)
+июл. 27, 2023 10:34:09 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:09 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:09 PM controller.ControllerToy addToy
+INFO: Delete toy (Dipsy)
+июл. 27, 2023 10:34:09 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:09 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:09 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:10 PM view.ViewToy run
+INFO: Command entered: r
+июл. 27, 2023 10:34:10 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:10 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:10 PM controller.ControllerToy readToy
+INFO: Read toy (Human)
+июл. 27, 2023 10:34:10 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:10 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:10 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Human)
+июл. 27, 2023 10:34:10 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:10 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:10 PM controller.ControllerToy addToy
+INFO: Delete toy (Human)
+июл. 27, 2023 10:34:10 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:10 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:10 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:11 PM view.ViewToy run
+INFO: Command entered: r
+июл. 27, 2023 10:34:11 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:11 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:11 PM controller.ControllerToy readToy
+INFO: Read toy (Elf)
+июл. 27, 2023 10:34:11 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:11 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:11 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Elf)
+июл. 27, 2023 10:34:11 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:11 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:11 PM controller.ControllerToy addToy
+INFO: Delete toy (Elf)
+июл. 27, 2023 10:34:11 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:11 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:11 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:11 PM view.ViewToy run
+INFO: Command entered: r
+июл. 27, 2023 10:34:11 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:11 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:11 PM controller.ControllerToy readToy
+INFO: Read toy (Dipsy)
+июл. 27, 2023 10:34:11 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:11 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:11 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Dipsy)
+июл. 27, 2023 10:34:11 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:11 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:11 PM controller.ControllerToy addToy
+INFO: Delete toy (Dipsy)
+июл. 27, 2023 10:34:11 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:11 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:11 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:12 PM view.ViewToy run
+INFO: Command entered: r
+июл. 27, 2023 10:34:12 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:12 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:12 PM controller.ControllerToy readToy
+INFO: Read toy (Human)
+июл. 27, 2023 10:34:12 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:12 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:12 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Human)
+июл. 27, 2023 10:34:12 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:12 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:12 PM controller.ControllerToy addToy
+INFO: Delete toy (Human)
+июл. 27, 2023 10:34:12 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:12 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:12 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:13 PM view.ViewToy run
+INFO: Command entered: r
+июл. 27, 2023 10:34:13 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:13 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:13 PM controller.ControllerToy readToy
+INFO: Read toy (Ork)
+июл. 27, 2023 10:34:13 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:13 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:13 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Ork)
+июл. 27, 2023 10:34:13 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:13 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:13 PM controller.ControllerToy addToy
+INFO: Delete toy (Ork)
+июл. 27, 2023 10:34:13 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:13 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:13 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:13 PM view.ViewToy run
+INFO: Command entered: r
+июл. 27, 2023 10:34:13 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:13 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:13 PM controller.ControllerToy readToy
+INFO: Read toy (Po)
+июл. 27, 2023 10:34:13 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:13 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:13 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Po)
+июл. 27, 2023 10:34:13 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:13 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:13 PM controller.ControllerToy addToy
+INFO: Delete toy (Po)
+июл. 27, 2023 10:34:13 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:13 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:13 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:14 PM view.ViewToy run
+INFO: Command entered: r
+июл. 27, 2023 10:34:14 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:14 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:14 PM controller.ControllerToy readToy
+INFO: Read toy (Human)
+июл. 27, 2023 10:34:14 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:14 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:14 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Human)
+июл. 27, 2023 10:34:14 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:14 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:14 PM controller.ControllerToy addToy
+INFO: Delete toy (Human)
+июл. 27, 2023 10:34:14 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:14 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:14 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:15 PM view.ViewToy run
+INFO: Command entered: r
+июл. 27, 2023 10:34:15 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:15 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:15 PM controller.ControllerToy readToy
+INFO: Read toy (Ork)
+июл. 27, 2023 10:34:15 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:15 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:15 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Ork)
+июл. 27, 2023 10:34:15 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:15 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:15 PM controller.ControllerToy addToy
+INFO: Delete toy (Ork)
+июл. 27, 2023 10:34:15 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:15 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:15 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:16 PM view.ViewToy run
+INFO: Command entered: r
+июл. 27, 2023 10:34:16 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:16 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:16 PM controller.ControllerToy readToy
+INFO: Read toy (Cat)
+июл. 27, 2023 10:34:16 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:16 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:16 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Cat)
+июл. 27, 2023 10:34:16 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:16 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:16 PM controller.ControllerToy addToy
+INFO: Delete toy (Cat)
+июл. 27, 2023 10:34:16 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:16 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:16 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:16 PM view.ViewToy run
+INFO: Command entered: r
+июл. 27, 2023 10:34:16 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:16 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:16 PM controller.ControllerToy readToy
+INFO: Read toy (Dipsy)
+июл. 27, 2023 10:34:16 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:16 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:16 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Dipsy)
+июл. 27, 2023 10:34:16 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:16 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:16 PM controller.ControllerToy addToy
+INFO: Delete toy (Dipsy)
+июл. 27, 2023 10:34:16 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:16 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:16 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:17 PM view.ViewToy run
+INFO: Command entered: r
+июл. 27, 2023 10:34:17 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:17 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:17 PM controller.ControllerToy readToy
+INFO: Read toy (Ork)
+июл. 27, 2023 10:34:17 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:17 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:17 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Ork)
+июл. 27, 2023 10:34:17 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:17 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:17 PM controller.ControllerToy addToy
+INFO: Delete toy (Ork)
+июл. 27, 2023 10:34:17 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:17 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:17 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:18 PM view.ViewToy run
+INFO: Command entered: r
+июл. 27, 2023 10:34:18 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:18 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:18 PM controller.ControllerToy readToy
+INFO: Read toy (Goblin)
+июл. 27, 2023 10:34:18 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:18 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:18 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Goblin)
+июл. 27, 2023 10:34:18 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:18 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:18 PM controller.ControllerToy addToy
+INFO: Delete toy (Goblin)
+июл. 27, 2023 10:34:18 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:18 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:18 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:18 PM view.ViewToy run
+INFO: Command entered: r
+июл. 27, 2023 10:34:18 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:18 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:18 PM controller.ControllerToy readToy
+INFO: Read toy (jo-jo)
+июл. 27, 2023 10:34:18 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:18 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:18 PM controller.ControllerToy deleteToy
+INFO: Delete toy (jo-jo)
+июл. 27, 2023 10:34:18 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:18 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:18 PM controller.ControllerToy addToy
+INFO: Delete toy (jo-jo)
+июл. 27, 2023 10:34:18 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:18 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:18 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:19 PM view.ViewToy run
+INFO: Command entered: r
+июл. 27, 2023 10:34:19 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:19 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:19 PM controller.ControllerToy readToy
+INFO: Read toy (Human)
+июл. 27, 2023 10:34:19 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:19 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:19 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Human)
+июл. 27, 2023 10:34:19 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:19 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:19 PM controller.ControllerToy addToy
+INFO: Delete toy (Human)
+июл. 27, 2023 10:34:19 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:19 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:19 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:21 PM view.ViewToy run
+INFO: Command entered: r
+июл. 27, 2023 10:34:21 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:21 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:21 PM controller.ControllerToy readToy
+INFO: Read toy (Cat)
+июл. 27, 2023 10:34:21 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:21 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:21 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Cat)
+июл. 27, 2023 10:34:21 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:21 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:21 PM controller.ControllerToy addToy
+INFO: Delete toy (Cat)
+июл. 27, 2023 10:34:21 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:21 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:21 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:21 PM view.ViewToy run
+INFO: Command entered: r
+июл. 27, 2023 10:34:21 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:21 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:21 PM controller.ControllerToy readToy
+INFO: Read toy (Elf)
+июл. 27, 2023 10:34:21 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:21 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:21 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Elf)
+июл. 27, 2023 10:34:21 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:21 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:21 PM controller.ControllerToy addToy
+INFO: Delete toy (Elf)
+июл. 27, 2023 10:34:21 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:21 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:21 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:37 PM view.ViewToy run
+INFO: Command entered: p
+июл. 27, 2023 10:34:41 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:41 PM controller.ControllerToy readToy
+INFO: Read toy (Cat)
+июл. 27, 2023 10:34:41 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:41 PM controller.ControllerToy readToy
+INFO: Read toy (Cat)
+июл. 27, 2023 10:34:41 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:41 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:41 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Cat)
+июл. 27, 2023 10:34:41 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:41 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:41 PM controller.ControllerToy addToy
+INFO: Delete toy (Cat)
+июл. 27, 2023 10:34:41 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:41 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:41 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:47 PM view.ViewToy run
+INFO: Command entered: p
+июл. 27, 2023 10:34:49 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:49 PM controller.ControllerToy readToy
+INFO: Read toy (Goblin)
+июл. 27, 2023 10:34:49 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:49 PM controller.ControllerToy readToy
+INFO: Read toy (Goblin)
+июл. 27, 2023 10:34:49 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:49 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:49 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Goblin)
+июл. 27, 2023 10:34:49 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:49 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:49 PM controller.ControllerToy addToy
+INFO: Delete toy (Goblin)
+июл. 27, 2023 10:34:49 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:49 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:49 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:52 PM view.ViewToy run
+INFO: Command entered: p
+июл. 27, 2023 10:34:54 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:54 PM controller.ControllerToy readToy
+INFO: Read toy (Goblin)
+июл. 27, 2023 10:34:54 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:54 PM controller.ControllerToy readToy
+INFO: Read toy (Goblin)
+июл. 27, 2023 10:34:54 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:54 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:54 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Goblin)
+июл. 27, 2023 10:34:54 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:54 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:34:54 PM controller.ControllerToy addToy
+INFO: Delete toy (Goblin)
+июл. 27, 2023 10:34:54 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:54 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:34:54 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:35:13 PM view.ViewToy run
+INFO: Command entered: p
+июл. 27, 2023 10:35:14 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:35:14 PM controller.ControllerToy readToy
+INFO: Read toy (Po)
+июл. 27, 2023 10:35:14 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:35:14 PM controller.ControllerToy readToy
+INFO: Read toy (Po)
+июл. 27, 2023 10:35:14 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:35:14 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:35:14 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Po)
+июл. 27, 2023 10:35:14 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:35:14 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:35:14 PM controller.ControllerToy addToy
+INFO: Delete toy (Po)
+июл. 27, 2023 10:35:14 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:35:14 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:35:14 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:35:19 PM view.ViewToy run
+INFO: Command entered: p
+июл. 27, 2023 10:35:22 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:35:22 PM controller.ControllerToy readToy
+INFO: Read toy (Ork)
+июл. 27, 2023 10:35:22 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:35:22 PM controller.ControllerToy readToy
+INFO: Read toy (Ork)
+июл. 27, 2023 10:35:22 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:35:22 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:35:22 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Ork)
+июл. 27, 2023 10:35:22 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:35:22 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:35:22 PM controller.ControllerToy addToy
+INFO: Delete toy (Ork)
+июл. 27, 2023 10:35:22 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:35:22 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:35:22 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:35:23 PM view.ViewToy run
+INFO: Command entered: p
+июл. 27, 2023 10:35:24 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:35:24 PM controller.ControllerToy readToy
+INFO: Read toy (Ork)
+июл. 27, 2023 10:35:24 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:35:24 PM controller.ControllerToy readToy
+INFO: Read toy (Ork)
+июл. 27, 2023 10:35:24 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:35:24 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:35:24 PM controller.ControllerToy deleteToy
+INFO: Delete toy (Ork)
+июл. 27, 2023 10:35:24 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:35:24 PM model.FileOperationToy saveAllLines
+INFO: All lines are saved
+июл. 27, 2023 10:35:24 PM controller.ControllerToy addToy
+INFO: Delete toy (Ork)
+июл. 27, 2023 10:35:24 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:35:24 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:35:24 PM model.FileOperationToy readAllLines
+INFO: All lines are read
+июл. 27, 2023 10:35:36 PM view.ViewToy run
+INFO: Command entered: q
